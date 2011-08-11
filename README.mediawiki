@@ -1,5 +1,4 @@
-free-hdl-license README
------------------------
+=free-hdl-license README=
 
 HDL designs are conceptually like software source code:  They're a
 human-readable format for expressing functionality, which is mechanically
@@ -22,11 +21,11 @@ would be helpful for licensing Free Software in HDL forms.
 
 If you are interested, please look at the following:
 
-* OpenCores forum discussion of LGPL http://opencores.org/forum,Other,0,3533
-* OpenCores essay "Open Source for Hardware" http://opencores.org/articles,1243319436
-* TAPR Open Hardware License (OHL) http://www.tapr.org/ohl.html
-* Forum discussion of OHL, grep for RTL and HDL  http://technocrat.net/d/2007/2/5/14355/
-* Article "Toward Open Source Hardware" http://www.tapr.org/Ackermann_Open_Source_Hardware_Article_2009.pdf
+* OpenCores [http://opencores.org/forum,Other,0,3533 forum discussion of LGPL]
+* OpenCores essay "[http://opencores.org/articles,1243319436 Open Source for Hardware]" 
+* TAPR [http://www.tapr.org/ohl.html Open Hardware License (OHL)]
+* Technocrat [http://technocrat.net/d/2007/2/5/14355/ forum discussion of OHL], grep for RTL and HDL
+* Article "[http://www.tapr.org/Ackermann_Open_Source_Hardware_Article_2009.pdf Toward Open Source Hardware]" 
 
 This project itself is licensed under a Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 Unported License right now.
