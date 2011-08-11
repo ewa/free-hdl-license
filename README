@@ -28,4 +28,14 @@ If you are interested, please look at the following:
 * Forum discussion of OHL, grep for RTL and HDL  http://technocrat.net/d/2007/2/5/14355/
 * Article "Toward Open Source Hardware" http://www.tapr.org/Ackermann_Open_Source_Hardware_Article_2009.pdf
 
+This project itself is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported License right now.
+Additionally, it probably makes sense to release any license we come
+up with under more liberal terms.  Only contribute to the project if
+you agree to the following: "Eric Anderson has my consent to release
+any material added by me to the free-hdl-license project into the
+public domain, and/or to offer it under any Creative Commons, free
+software, free documentation, or open source license." 
 
+The above seems like a good solution to me.  If you don't like it,
+contact me and suggest something better!
