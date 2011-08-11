@@ -1,0 +1,31 @@
+free-hdl-license README
+-----------------------
+
+HDL designs are conceptually like software source code:  They're a
+human-readable format for expressing functionality, which is mechanically
+converted into a format which more directly implements that function.  If the
+design is being used with reconfigurable hardware (e.g. an FPGA), the
+synthesized bitfile is loaded an run much like ordinary software in a
+stored-program computer.  While they might embody some technique protected by
+patent law, the designs themselves are protected by copyright. 
+
+There are enough differences, though, that I'm not sure how well the common
+existing free software licenses (or other software licenses) map to HDL
+designs.  Words like "compile," "link," "library," "object code," and "header
+file" don't translate exactly.  In general, HDL designs can be used to make
+either reconfigurable logic device bitfiles or permanently-fixed hardware.
+When the end product is an ASIC, the software thought model (and licenses) may
+not apply as well.
+
+The goal of this project is to identify clarifications or improvements which
+would be helpful for licensing Free Software in HDL forms.
+
+If you are interested, please look at the following:
+
+* OpenCores forum discussion of LGPL http://opencores.org/forum,Other,0,3533
+* OpenCores essay "Open Source for Hardware" http://opencores.org/articles,1243319436
+* TAPR Open Hardware License (OHL) http://www.tapr.org/ohl.html
+* Forum discussion of OHL, grep for RTL and HDL  http://technocrat.net/d/2007/2/5/14355/
+* Article "Toward Open Source Hardware" http://www.tapr.org/Ackermann_Open_Source_Hardware_Article_2009.pdf
+
+
