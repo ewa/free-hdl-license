@@ -38,3 +38,5 @@ software, free documentation, or open source license."
 
 The above seems like a good solution to me.  If you don't like it,
 contact me and suggest something better!
+
+Now, [https://github.com/ewa/free-hdl-license/wiki go to the Wiki]!
